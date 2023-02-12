@@ -4,37 +4,37 @@
 
 ## Applications
 
-* [desktop](applications/desktop.md)
-* [mobile](applications/mobile.md)
-* [terminal](applications/terminal.md)
-* [clipper](applications/clipper.md)
+* [desktop](readme/desktop.md)
+* [mobile](readme/mobile.md)
+* [terminal](readme/terminal.md)
+* [clipper](readme/clipper.md)
 
 ## Support
 
 * [Joplin Forum](https://discourse.joplinapp.org/)
-* [markdown](support/markdown.md)
-* [e2ee](support/e2ee.md)
-* [conflict](support/conflict.md)
-* [debugging](support/debugging.md)
-* [rich\_text\_editor](support/rich\_text\_editor.md)
-* [external\_links](support/external\_links.md)
-* [faq](support/faq.md)
+* [markdown](readme/markdown.md)
+* [e2ee](readme/e2ee.md)
+* [conflict](readme/conflict.md)
+* [debugging](readme/debugging.md)
+* [rich\_text\_editor](readme/rich\_text\_editor.md)
+* [external\_links](readme/external\_links.md)
+* [faq](readme/faq.md)
 
 ## Joplin Cloud
 
-* [share\_notebook](joplin-cloud/share\_notebook.md)
-* [publish\_note](joplin-cloud/publish\_note.md)
+* [share\_notebook](readme/share\_notebook.md)
+* [publish\_note](readme/publish\_note.md)
 
 ## Joplin API - Get Started
 
-* [overview](joplin-api-get-started/overview.md)
-* [plugins](joplin-api-get-started/plugins.md)
-* [toc\_plugin](joplin-api-get-started/toc\_plugin.md)
+* [overview](readme/api/overview.md)
+* [plugins](readme/api/get_started/plugins.md)
+* [toc\_plugin](readme/api/tutorials/toc\_plugin.md)
 
 ## Joplin API - References
 
 * [Plugin API](https://joplinapp.org/api/references/plugin\_api/classes/joplin.html)
-* [rest\_api](joplin-api-references/rest\_api.md)
-* [plugin\_manifest](joplin-api-references/plugin\_manifest.md)
-* [plugin\_loading\_rules](joplin-api-references/plugin\_loading\_rules.md)
-* [plugin\_theming](joplin-api-references/plugin\_theming.md)
+* [rest\_api](readme/api/references/rest\_api.md)
+* [plugin\_manifest](readme/api/references/plugin\_manifest.md)
+* [plugin\_loading\_rules](readme/api/references/plugin\_loading\_rules.md)
+* [plugin\_theming](readme/api/references/plugin\_theming.md)
